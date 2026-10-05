@@ -4,19 +4,19 @@
 
 ## El emprendimiento
 
-<!-- Nombre, rubro, si es real o ficticio, qué vende y cómo vende hoy. -->
+<!-- Kataatejidos, amigurumis a crochet y patrones de amigurumis, es un emprendimiento real, vendo desde ig y whatsapp, el principal producto es amigurumis hechos a crochet, pero también diseño los patrones para otras tejedoras.
 
 ## Propuesta de valor
 
-<!-- Ayudamos a [a quién] a [lograr qué] gracias a [qué nos diferencia]. -->
+<!-- Doy soluciones atractivas de regalos personalizados de calidad a todos mis clientes. Me diferencia la calidad de mis productos, la atención personalizada y la variedad de diseños. --> 
 
 ## Objetivo del sitio
 
-- **Principal:**
-- **Secundario:**
+- **Principal:** Tener una tienda online que sea mi principal herramienta de ventas, aunque también seguir vendiendo por ig y whatsapp.
+- **Secundario:** Que sea un catálogo de mis productos y que me permita recibir pedidos personalizados y también que las personas puedan comprar los patrones de mis amigurumis.
 
 ## Referentes
 
-| Marca | Qué hace bien |
-|---|---|
+| https://www.tutitas.com/ | Tienen cursos de crochet, venta de patrones y venta de amigurumis terminados. Mantienen una identidad visual muy reconocible y diseños coleccionables. |
+| amigurumistore_ |---| Ofrece amigurumis altamente personalizados, transforma ideas y recuerdos significatibos de los clientes y tiene cobertura de venta a todo Chile.
 | | |
