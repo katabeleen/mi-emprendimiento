@@ -1,19 +1,19 @@
-# Brief — [Nombre del emprendimiento]
+# Brief — [kataa tejidos]
 
 > Guía: [Brief](../evaluacion/guias/fase-1-requerimientos/01-brief.md)
 
 ## El emprendimiento
 
-<!-- Kataatejidos, amigurumis a crochet y patrones de amigurumis, es un emprendimiento real, vendo desde ig y whatsapp, el principal producto es amigurumis hechos a crochet, pero también diseño los patrones para otras tejedoras.
+<!-- Kataa tejidos es un emprendimiento real de tejidos a crochet, especializado en amigurumis hechos a mano y diseños personalizados. Vende a través de Instagram, destacándose por la dedicación, el perfeccionismo y el cuidado de cada detalle.--> 
 
 ## Propuesta de valor
 
-<!-- Doy soluciones atractivas de regalos personalizados de calidad a todos mis clientes. Me diferencia la calidad de mis productos, la atención personalizada y la variedad de diseños. --> 
+<!-- Ayudamos a quienes desean regalar algo inolvidable a convertir sus ideas en amigurumis únicos, creados con dedicación y un cuidado minucioso que hace especial cada detalle.-->
 
 ## Objetivo del sitio
 
-- **Principal:** Tener una tienda online que sea mi principal herramienta de ventas, aunque también seguir vendiendo por ig y whatsapp.
-- **Secundario:** Que sea un catálogo de mis productos y que me permita recibir pedidos personalizados y también que las personas puedan comprar los patrones de mis amigurumis.
+- **Principal:** Tener una tienda online que sea mi principal herramienta de ventas, aunque también seguir vendiendo por Instagram y Whatsapp.
+- **Secundario:** Que sea un catálogo de mis productos, que me permita recibir pedidos personalizados y que otras tejedoras puedan comprar mis patrones de amigurumis.
 
 ## Referentes
 
