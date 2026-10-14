@@ -1,22 +1,23 @@
-# Brief — [kataa tejidos]
+# Brief — Kataa Tejidos
 
 > Guía: [Brief](../evaluacion/guias/fase-1-requerimientos/01-brief.md)
 
 ## El emprendimiento
 
-<!-- Kataa tejidos es un emprendimiento real de tejidos a crochet, especializado en amigurumis hechos a mano y diseños personalizados. Vende a través de Instagram, destacándose por la dedicación, el perfeccionismo y el cuidado de cada detalle.--> 
+Kataa Tejidos es un emprendimiento chileno de tejidos a crochet, especializado en amigurumis hechos a mano y diseños personalizados. Actualmente comercializa a través de Instagram, destacándose por la dedicación, el perfeccionismo y el cuidado minucioso de cada detalle en cada creación artesanal.
 
 ## Propuesta de valor
 
-<!-- Ayudamos a quienes desean regalar algo inolvidable a convertir sus ideas en amigurumis únicos, creados con dedicación y un cuidado minucioso que hace especial cada detalle.-->
+Ayudamos a quienes desean regalar algo inolvidable a convertir sus ideas y recuerdos en amigurumis únicos, creados con dedicación y un cuidado minucioso que hace especial cada detalle.
 
 ## Objetivo del sitio
 
-- **Principal:** Tener una tienda online que sea mi principal herramienta de ventas, aunque también seguir vendiendo por Instagram y Whatsapp.
-- **Secundario:** Que sea un catálogo de mis productos, que me permita recibir pedidos personalizados y que otras tejedoras puedan comprar mis patrones de amigurumis.
+- **Principal:** Tener una tienda online que sea la principal herramienta de ventas de Kataa Tejidos, complementando la atención por Instagram y WhatsApp.
+- **Secundario:** Disponer de un catálogo digital estructurado de productos, recibir solicitudes de pedidos personalizados y permitir la compra y descarga directa de patrones de amigurumis en PDF para tejedoras.
 
 ## Referentes
 
-| https://www.tutitas.com/ | Tienen cursos de crochet, venta de patrones y venta de amigurumis terminados. Mantienen una identidad visual muy reconocible y diseños coleccionables. |
-| amigurumistore_ |---| Ofrece amigurumis altamente personalizados, transforma ideas y recuerdos significatibos de los clientes y tiene cobertura de venta a todo Chile.
-| | |
+| Referente | Qué hace y por qué se eligió |
+|---|---|
+| [Tutitas](https://www.tutitas.com/) | Tienen cursos de crochet, venta de patrones y venta de amigurumis terminados. Mantienen una identidad visual muy reconocible y diseños coleccionables. |
+| [Amigurumi Store](https://www.instagram.com/amigurumistore_/) | Ofrece amigurumis altamente personalizados, transforma ideas y recuerdos significativos de los clientes y tiene cobertura de venta a todo Chile. |

@@ -1,8 +1,8 @@
-# Componentes — [Nombre del emprendimiento]
+# Componentes — Kataa Tejidos
 
 > Guía: [Componentes](../evaluacion/guias/fase-2-specs/03-calco-de-componentes.md)
 
-**Tablero en Whimsical:** (https://whimsical.com/katalina-s-workspace/6S1JSGv3jEDiXViy3Fmmvs@6HYTAunKLgTXEqD9HKbpNseCurD2qr3FACNvn38EAK3Ri2h)]
+**Tablero en Whimsical:** [https://whimsical.com/katalina-s-workspace/6S1JSGv3jEDiXViy3Fmmvs@6HYTAunKLgTXEqD9HKbpNseCurD2qr3FACNvn38EAK3Ri2h](https://whimsical.com/katalina-s-workspace/6S1JSGv3jEDiXViy3Fmmvs@6HYTAunKLgTXEqD9HKbpNseCurD2qr3FACNvn38EAK3Ri2h)
 
 ### Captura de componentes calcados
 

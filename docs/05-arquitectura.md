@@ -1,4 +1,4 @@
-# Arquitectura de la información — [Nombre del emprendimiento]
+# Arquitectura de la información — Kataa Tejidos
 
 > Guía: [Arquitectura de la información](../evaluacion/guias/fase-1-requerimientos/05-arquitectura.md)
 

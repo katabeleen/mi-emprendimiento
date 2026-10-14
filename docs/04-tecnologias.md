@@ -1,4 +1,4 @@
-# Tecnologías del proyecto — [Nombre del emprendimiento]
+# Tecnologías del proyecto — Kataa Tejidos
 
 > Guía: [Tecnologías del proyecto](../evaluacion/guias/fase-1-requerimientos/04-tecnologias.md)
 
@@ -18,7 +18,6 @@
 
 | Funcionalidad | Estado en esta versión |
 |---|---|
-| | Funcional / Prototipo visual |
 | Navegación del sitio | Funcional |
 | Visualización de productos | Funcional |
 | Visualización de información de productos | Funcional |

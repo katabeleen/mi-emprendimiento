@@ -1,4 +1,4 @@
-# Spec de diseño — [Kataa Tejidos]
+# Spec de diseño — Kataa Tejidos
 
 > Guía: [Spec de diseño](../evaluacion/guias/fase-2-specs/06-spec-de-diseno.md)
 
@@ -7,7 +7,7 @@ La spec de diseño tiene dos partes:
 1. **[`DESIGN.md`](../DESIGN.md)** (en la raíz): tu design system, en el formato que Stitch importa.
 2. **Este documento:** tus pantallas, escritas como prompts listos para pegar en Stitch.
 
-**Wireframes en Whimsical:** [https://whimsical.com/trabajo-duoc/wireframes-3SGmMg35aeccpo3D5BHg9P@6HYTAunKLgTXUhgiBXb3vL2vqEp12tE9FxyeNGH6Djp9SBo]
+**Wireframes en Whimsical:** [https://whimsical.com/trabajo-duoc/wireframes-3SGmMg35aeccpo3D5BHg9P@6HYTAunKLgTXUhgiBXb3vL2vqEp12tE9FxyeNGH6Djp9SBo](https://whimsical.com/trabajo-duoc/wireframes-3SGmMg35aeccpo3D5BHg9P@6HYTAunKLgTXUhgiBXb3vL2vqEp12tE9FxyeNGH6Djp9SBo)
 
 > Guía de wireframes: [Wireframes](../evaluacion/guias/fase-2-specs/04-wireframes.md)
 

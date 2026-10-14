@@ -1,4 +1,4 @@
-# Spec de desarrollo — [Kataa Tejidos]
+# Spec de desarrollo — Kataa Tejidos
 
 > Guía: [Spec de desarrollo](../evaluacion/guias/fase-2-specs/07-spec-de-desarrollo.md)
 

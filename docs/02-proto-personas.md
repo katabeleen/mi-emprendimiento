@@ -45,9 +45,9 @@
 
 ## Proto-persona 2
 
-![Avatar de Isidora](img/isidora.png)
+![Avatar de Ignacia](img/isidora.png)
 
-**Isidora, 29 años.** Publicista.
+**Ignacia, 29 años.** Publicista.
 
 > "Cada patrón es una nueva oportunidad para crear algo único con mis propias manos."
 

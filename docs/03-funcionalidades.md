@@ -1,4 +1,4 @@
-# Objetivos del usuario y funcionalidades — [Nombre del emprendimiento]
+# Objetivos del usuario y funcionalidades — Kataa Tejidos
 
 > Guía: [Objetivos del usuario y funcionalidades](../evaluacion/guias/fase-1-requerimientos/03-funcionalidades.md)
 
