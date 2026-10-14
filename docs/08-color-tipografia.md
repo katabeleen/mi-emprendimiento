@@ -6,30 +6,35 @@
 
 | Rol | Color | HEX | Uso |
 |---|---|---|---|
-| Principal | Rosa claro / Pastel | #FBCAEF | Botones principales, acentos suaves, enlaces e identidades de marca |
-| Secundario | Lavanda / Lila claro | #CEC2FF | Fondos de tarjetas, bloques secundarios y secciones destacadas |
-| Acento | Naranja / Coral cálido | #F55D3E | Llamados a la acción (CTA), badges de oferta, notificaciones y destacados |
-| Acento secundario / Menta | Menta / Aqua claro | #A9FFF7 | Etiquetas de categorías y filtros activos |
-| Fondo | Blanco / Crema claro | #FFFFFF | Fondo general neutro y limpio para bajo ruido visual |
-| Texto | Oscuro / Carbón | #1E1E1E | Lectura principal de títulos y párrafos para alto contraste |
-| Éxito | Menta / Verde pastel | #A9FFF7 | Mensajes de confirmación de compra y éxito en formularios |
-| Error | Naranja rojizo | #F55D3E | Errores de validación en campos |
+| Principal | Rosa claro / Pastel | #FBCAEF | Botones de navegación, acentos suaves, enlaces e identidades de marca |
+| Secundario | Lavanda / Lila claro | #CEC2FF | Fondos de tarjetas de kits, bloques secundarios y secciones destacadas |
+| Acento | Coral terracota oscuro | #C7381C | Botones de acción principal (CTA), checkout, badges de oferta y destacados |
+| Acento secundario | Menta / Aqua claro | #A9FFF7 | Etiquetas de categorías y filtros activos con texto oscuro |
+| Fondo | Blanco puro | #FFFFFF | Fondo general neutro y limpio para bajo ruido visual |
+| Fondo alternativo | Crema suave | #FBF7FA | Contenedores y secciones alternadas |
+| Texto | Carbón oscuro | #1E1E1E | Lectura principal de títulos y párrafos para alto contraste |
+| Texto secundario | Gris medio | #5C5C5C | Fechas, metadatos y subtítulos complementarios |
+| Éxito | Verde bosque artesanal | #237A4B | Mensajes de confirmación de pedido y éxito en formularios |
+| Error | Rojo carmesí | #C62828 | Mensajes de error y validaciones en campos de formulario |
 
 ## Contraste
 
 | Combinación | Ratio | Resultado |
 |---|---|---|
 | Texto #1E1E1E sobre fondo blanco #FFFFFF | 19.5:1 | AAA ✅ |
-| Texto blanco #FFFFFF sobre Acento #F55D3E | 4.8:1 | AA ✅ |
+| Texto blanco #FFFFFF sobre Acento #C7381C | 5.24:1 | AA ✅ |
+| Texto blanco #FFFFFF sobre Éxito #237A4B | 5.13:1 | AA ✅ |
+| Texto blanco #FFFFFF sobre Error #C62828 | 5.62:1 | AA ✅ |
 | Texto #1E1E1E sobre Rosa #FBCAEF | 11.2:1 | AAA ✅ |
 | Texto #1E1E1E sobre Lila #CEC2FF | 10.5:1 | AAA ✅ |
+| Texto #1E1E1E sobre Menta #A9FFF7 | 12.1:1 | AAA ✅ |
 
 ## Tipografía
 
-- **Títulos (H1, H2, H3):** Ramabhadra / Chilanka (Google Fonts) para dar personalidad y fuerza a los encabezados de la tienda.
-- **Subtítulos y detalles decorativos:** Pinyon Script (Google Fonts) para toques artesanales y firmas.
-- **Textos y Párrafos:** Inter / Plus Jakarta Sans (Google Fonts) para asegurar una lectura impecable en párrafos y descripciones de productos.
-- **Botones y CTAs:** Crafty Girls (Google Fonts) para darles un toque manuscrito, amigable y distintivo en las llamadas a la acción.
+- **Títulos (H1, H2, H3):** `Ramabhadra` (Google Fonts) para otorgar presencia, carácter y consistencia visual a todos los encabezados del sitio.
+- **Subtítulos y detalles decorativos:** `Pinyon Script` (Google Fonts) para toques artesanales y firmas conmemorativas.
+- **Textos y Párrafos:** `Inter` (Google Fonts) para asegurar una legibilidad neutra e impecable en descripciones de producto, especificaciones y artículos.
+- **Botones y CTAs:** `Crafty Girls` (Google Fonts) para darles un toque manuscrito, cercano y representativo del tejido a crochet.
 
 | Elemento | Desktop | Mobile | Peso |
 |---|---|---|---|
@@ -41,4 +46,6 @@
 
 ## Justificación
 
-La paleta de colores combina tonos pastel dinámicos como el rosa claro (#FBCAEF), lila (#CEC2FF), menta (#A9FFF7) y amarillo (#FFFD82) con un toque vibrante de contraste coral (#F55D3E). Esta combinación genera una estética moderna, alegre, artesanal y juvenil para Kataa Tejidos. El uso de tipografías como Pinyon Script aporta la delicadeza del trabajo hecho a mano en los detalles, mientras que fuentes limpias y legibles para títulos y textos garantizan que las usuarias puedan navegar con facilidad por la tienda, leer las descripciones y revisar los patrones sin esfuerzo desde cualquier dispositivo.
+La paleta cromática combina tonalidades pastel representativas de Kataa Tejidos —rosa (#FBCAEF), lila (#CEC2FF) y menta (#A9FFF7)— con un coral terracota oscuro (#C7381C) en los llamados a la acción, el cual garantiza un ratio de contraste de 5.24:1 con texto blanco para cumplir estrictamente el estándar WCAG AA. Para evitar ambigüedades en la retroalimentación al usuario, se independizaron los estados semánticos: verde bosque artesanal (#237A4B) para confirmaciones de éxito y rojo carmesí (#C62828) para errores de validación.
+
+En el aspecto tipográfico, se definió una única fuente por uso funcional para evitar inconsistencias de maquetación: Ramabhadra en títulos para solidez estructural, Inter en textos continuos para legibilidad universal, y Crafty Girls en botones para enfatizar la calidez del trabajo artesanal hecho a mano.

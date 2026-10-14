@@ -1,6 +1,6 @@
-# [Nombre del emprendimiento] — Sitio web
+# Kataa Tejidos — Sitio web
 
-[Descripción del emprendimiento en una o dos líneas.]
+Tienda online de amigurumis hechos a mano con amor y venta de patrones digitales en Chile.
 Incluye landing, blog y prototipo de tienda online.
 
 > Proyecto de la **Evaluación Parcial 02 — Sitios Web y Landing Pages (DUOC)**.
@@ -31,8 +31,10 @@ Incluye landing, blog y prototipo de tienda online.
 
 ## Prototipo
 
-[Aquí va el link de tu proyecto de Stitch en la Fase 3]
+- **Enlace al proyecto en Stitch:** [https://stitch.withgoogle.com/projects/6254953640441361299](https://stitch.withgoogle.com/projects/6254953640441361299)
+- **Capturas del prototipo:** Disponibles en [docs/11-qa.md](docs/11-qa.md) y en [docs/img/](docs/img/).
 
 ## Uso de IA
 
-- **[Herramienta]:** para qué la usé y qué ajusté yo.
+- **Google Stitch:** Generación visual de las 6 pantallas de alta fidelidad (desktop y mobile) a partir de los prompts detallados de la spec de diseño y el design system importado.
+- **ChatGPT / Claude / Antigravity:** Redacción y estructuración de especificaciones técnicas, validación de contrastes de color, refinamiento de prompts y documentación del aseguramiento de calidad (QA).
